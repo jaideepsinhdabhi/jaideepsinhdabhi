@@ -16,19 +16,16 @@ Strong background in **Python, deep learning, data processing, and model deploym
 
 ### 💼 Professional Experience
 
-#### **AI/ML Consultant — KPMG India (GovTech, GIFT City)**  
+#### **AI/ML Consultant — KPMG India (GovTech)**  
 *Jun 2025 – Present | Gandhinagar, India*  
 - AI Consultant for the **Department of Science and Technology (DST), Gujarat Government** under the AI Centre of Excellence.  
-- Developed **Gujarati LLM and RAG systems** for government departments.  
-- Built a **national-level analytics dashboard** for the Ministry of Home Affairs, monitoring welfare indicators.  
-- Automated **form submission and document verification** workflows with LLM-based systems.  
 
 #### **Data Scientist II — HolboxAI**  
 *Aug 2024 – May 2025 | Ahmedabad, India*  
 - Designed and executed **LLM and deep learning POCs** for various client domains.  
 - Built **breast cancer segmentation models** (nnU-Net, TransUNet) on multiphase MRI with IoU ≈ 0.81.  
 - Developed **bioinformatics automation** pipelines and **fraud detection tools** using LLMs.  
-- Created **forecasting systems** using SARIMAX for IoT-based temperature optimization.  
+- Created **forecasting systems** using SARIMAX for IoT-based temperature optimisation.  
 
 #### **Associate Bioinformatics Engineer II — Strand Life Sciences (Reliance)**  
 *Jan 2023 – Aug 2024 | Bengaluru (Remote)*  
