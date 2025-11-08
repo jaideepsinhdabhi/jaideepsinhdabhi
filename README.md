@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaideepsinh Dabhi
+# 👋 Hi, I'm Jaideepsinh Dabhi (jD)
 
 🚀 **Data Scientist | ML Engineer | Bioinformatics Engineer**
 
