@@ -10,7 +10,7 @@
 ### 🧠 About Me
 Dynamic and results-oriented Data Scientist with 4+ years of experience in AI, ML, and bioinformatics.  
 Skilled in building **LLM-based systems**, **RAG pipelines**, and **end-to-end AI solutions** for diverse industries.  
-Strong background in **Python, deep learning, data processing, and model deployment**, with a proven record of driving innovation in government, healthcare, and enterprise settings.  
+Strong background in **Python, deep learning, data processing, and model deployment**, with a proven record of driving innovation in government, healthcare, and biotech.  
 
 ---
 
